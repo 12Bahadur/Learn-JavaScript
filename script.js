@@ -1,2 +1,5 @@
-console.log('Hello world');
-alert("Hello World");
+let surname = 'Osmanov';
+let firstname = 'Bahadur';
+let patronymic = 'Ibragimovich';
+
+console.log(surname + '\n' + firstname + '\n' + patronymic);
