@@ -1,2 +1,4 @@
-console.log('Hello world');
-alert("Hello World");
+let surname = prompt("Ваша Фамилия", '');
+let firstname = prompt("Ваше Имя", '');
+let patronymic = prompt("Ваше Отчество", '');
+alert('Добро пожаловать ' + surname +' '+ firstname +' '+ patronymic);
